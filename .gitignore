@@ -1,18 +1,60 @@
-.env
-.venv/
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
-videos/
-shorts/
-candidates/
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment Variables
+.env
+.env.local
+config.py
+
+# Project specific
+input_videos/
+output_shorts/
+temp/
+cache/
 logs/
+*.log
 
-*.mp4
-*.wav
-*.webm
+# Credentials
+credentials.json
+token.pickle
+youtube_credentials/
 
-client_secret*.json
-token*.json
-credentials*.json
+# OS
+.DS_Store
+Thumbs.db

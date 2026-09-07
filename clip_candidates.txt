@@ -1,0 +1,152 @@
+PLAYREX SHORTS ADAY ANALİZİ V14.4
+======================================================================
+Toplam transcript satırı : 243
+Temiz transcript satırı  : 234
+Toplam event              : 52
+Geçerli gameplay event   : 25
+Event bazlı aday          : 13
+Final Shorts adayı        : 8
+
+#1
+CLIP : 2806.43 -> 2838.68
+DURATION : 32.2s
+SCORE : 246
+ACTION : 3
+GAME : 0
+REACTION : 0
+KILLS : 5
+LOW VALUE : 0
+EVENT : 2806.43 -> 2865.97
+TEXT:
+[2806.43 -> 2809.43] Two of them are attacking me
+[2809.43 -> 2826.28] We have four kills
+[2826.28 -> 2829.56] I'm tired
+[2829.56 -> 2832.58] I'm tired
+[2832.58 -> 2837.97] I really don't understand
+[2837.97 -> 2839.97] Okay, you hit me once
+----------------------------------------------------------------------
+#2
+CLIP : 2518.27 -> 2543.27
+DURATION : 25.0s
+SCORE : 176
+ACTION : 6
+GAME : 4
+REACTION : 4
+KILLS : 0
+LOW VALUE : 0
+EVENT : 2508.25 -> 2564.28
+TEXT:
+[2509.25 -> 2520.02] When the pilot is gone, the operator is fine
+[2521.02 -> 2524.02] How did you turn like that?
+[2524.02 -> 2527.02] I'm like a ball in the air, but I hit the ground
+[2527.02 -> 2536.06] Wow
+[2536.06 -> 2542.28] Are you a pilot?
+[2542.28 -> 2544.28] Are you a real pilot?
+----------------------------------------------------------------------
+#3
+CLIP : 1433.43 -> 1451.68
+DURATION : 18.2s
+SCORE : 92
+ACTION : 3
+GAME : 1
+REACTION : 1
+KILLS : 0
+LOW VALUE : 0
+EVENT : 1433.43 -> 1473.69
+TEXT:
+[1433.43 -> 1434.43] Come on
+[1435.43 -> 1436.43] Come on, fall
+[1437.43 -> 1438.43] He fell
+[1441.32 -> 1442.32] Come on, bye
+[1442.32 -> 1445.85] Don't blow us up
+[1446.85 -> 1450.15] We're out of the potato field
+[1451.15 -> 1453.15] I love this game
+----------------------------------------------------------------------
+#4
+CLIP : 1355.86 -> 1400.86
+DURATION : 45.0s
+SCORE : 75
+ACTION : 3
+GAME : 2
+REACTION : 1
+KILLS : 0
+LOW VALUE : 0
+EVENT : 1292.84 -> 1411.54
+TEXT:
+[1355.02 -> 1356.02] Let's see how to play
+[1356.02 -> 1359.02] If you're a good pilot, I'll hit you in a good way
+[1359.02 -> 1367.15] Come on
+[1371.61 -> 1372.61] What did you do?
+[1372.61 -> 1386.86] I'm going to keep my dignity
+[1386.86 -> 1390.14] I'm going to put my wings in
+[1390.14 -> 1406.54] We hit
+----------------------------------------------------------------------
+#5
+CLIP : 1841.69 -> 1856.69
+DURATION : 15.0s
+SCORE : 58
+ACTION : 1
+GAME : 1
+REACTION : 1
+KILLS : 0
+LOW VALUE : 0
+EVENT : 1841.69 -> 1874.33
+TEXT:
+[1841.69 -> 1842.69] Wow, this is bad
+[1842.69 -> 1853.33] I had to change this to a rocket
+----------------------------------------------------------------------
+#6
+CLIP : 3441.40 -> 3456.40
+DURATION : 15.0s
+SCORE : 52
+ACTION : 2
+GAME : 0
+REACTION : 1
+KILLS : 0
+LOW VALUE : 0
+EVENT : 3441.27 -> 3479.93
+TEXT:
+[3441.27 -> 3444.65] They're slowing down
+[3444.65 -> 3446.65] They're not hurting
+[3446.65 -> 3448.65] They're really professional
+[3448.65 -> 3450.65] They're really professional
+[3450.65 -> 3454.66] They're doing a turn
+[3454.66 -> 3459.93] You hit the head
+----------------------------------------------------------------------
+#7
+CLIP : 2376.68 -> 2392.93
+DURATION : 16.2s
+SCORE : 51
+ACTION : 4
+GAME : 1
+REACTION : 0
+KILLS : 0
+LOW VALUE : 0
+EVENT : 2376.68 -> 2413.58
+TEXT:
+[2376.68 -> 2387.58] Where did you go?
+[2387.58 -> 2388.58] Run away
+[2388.58 -> 2389.58] Son
+[2389.58 -> 2391.58] You'll get up in the air
+[2391.58 -> 2392.58] I'm already hitting you
+[2392.58 -> 2393.58] You'll just run away
+----------------------------------------------------------------------
+#8
+CLIP : 2424.86 -> 2450.86
+DURATION : 26.0s
+SCORE : 51
+ACTION : 3
+GAME : 0
+REACTION : 0
+KILLS : 1
+LOW VALUE : 0
+EVENT : 2424.86 -> 2486.86
+TEXT:
+[2424.86 -> 2425.86] We fell one
+[2425.86 -> 2426.86] Keep going like this
+[2426.86 -> 2441.56] A little further
+[2441.56 -> 2442.56] Okay
+[2442.56 -> 2445.94] There's no one left
+[2445.94 -> 2450.53] But it will follow us
+[2450.53 -> 2459.86] Both of them want to follow us
+----------------------------------------------------------------------

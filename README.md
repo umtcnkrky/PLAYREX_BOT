@@ -1,5 +1,9 @@
 # PlayRex 🎮🎬
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
+
 > **AI-Powered YouTube Shorts Automation for Gaming Content**
 
 ## What is PlayRex?
@@ -39,7 +43,7 @@ PlayRex simplifies content creation for gaming channels by:
 
 ## Technology Stack
 
-- **Language:** Python
+- **Language:** Python 3.8+
 - **AI/ML:** Video analysis and moment detection
 - **Automation:** YouTube API integration
 - **Video Processing:** Frame-by-frame analysis, vertical format conversion

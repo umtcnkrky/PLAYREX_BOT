@@ -6,6 +6,10 @@
 
 > **AI-Powered YouTube Shorts Automation for Gaming Content**
 
+## Topics
+
+`youtube-shorts` `gaming` `automation` `ai` `python` `youtube-api` `content-creator` `video-editing` `machine-learning`
+
 ## What is PlayRex?
 
 PlayRex is an intelligent automation system designed to transform long-form gaming videos and livestreams into engaging YouTube Shorts automatically.
